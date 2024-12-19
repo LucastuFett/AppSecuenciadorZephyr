@@ -1,0 +1,5 @@
+west:
+  command: /Users/lucasgutie/zephyrproject/.venv/bin/west build -b stm32_min_dev@blue
+    -- -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+  topdir: /Users/lucasgutie/zephyrapp
+  version: 1.3.0

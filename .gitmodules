@@ -1,0 +1,3 @@
+[submodule "app/zephyr-usb-midi"]
+	path = app/zephyr-usb-midi
+	url = https://github.com/LucastuFett/zephyr-usb-midi
